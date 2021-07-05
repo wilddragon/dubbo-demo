@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+dubbo-demo-interface
+
+
+From: 'an unknown organization'
+  - Project Lombok (https://projectlombok.org) org.projectlombok:lombok:jar:1.18.20
+    License: The MIT License  (https://projectlombok.org/LICENSE)
+
+
+
+
